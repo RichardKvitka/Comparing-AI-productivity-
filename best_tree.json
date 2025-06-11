@@ -1,0 +1,10 @@
+{
+    "criterion": "entropy",
+    "max_depth": 3,
+    "metrics": {
+        "Accuracy": 0.8203333333333334,
+        "Precision": 0.6710899836735484,
+        "Recall": 0.3682985335005179,
+        "F1 Score": 0.4753690535975326
+    }
+}

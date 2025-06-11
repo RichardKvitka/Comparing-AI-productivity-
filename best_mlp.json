@@ -1,0 +1,13 @@
+{
+    "hidden_layer_sizes": [
+        50
+    ],
+    "activation": "relu",
+    "learning_rate": "constant",
+    "metrics": {
+        "Accuracy": 0.8152666666666667,
+        "Precision": 0.6401018025716938,
+        "Recall": 0.3771899816460412,
+        "F1 Score": 0.474390274975088
+    }
+}
